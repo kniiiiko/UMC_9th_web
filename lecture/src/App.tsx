@@ -8,13 +8,13 @@ import "./App.css";
 function App() {
   return (
     <>
-      {/* <TodoProvider>
+      <TodoProvider>
         <Todo />
-      </TodoProvider> // mission2-1 */}
-
+      </TodoProvider>{" "}
+      {/* 
       <ThemeProvider>
         <Context />
-      </ThemeProvider>
+      </ThemeProvider> */}
     </>
   );
 }
